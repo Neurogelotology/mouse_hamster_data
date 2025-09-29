@@ -1,12 +1,78 @@
-,interaction %,condition
-0,20.33985287482895,unselected
-1,22.718933161863056,unselected
-2,11.831674292410579,unselected
-3,32.59698501832917,unselected
-4,24.659154345051437,unselected
-5,41.483522945562626,tame mouse
-6,73.60018198337977,tame mouse
-7,49.51644587476069,tame mouse
-8,63.023732982564276,tame mouse
-9,56.86715608395955,tame mouse
-10,53.404780309167464,tame mouse
+,event_name,strain,percent
+0,Body,unselected,8.54267885707312
+1,Facial,unselected,6.947797338991641
+2,Anogenital,unselected,4.34070725169127
+3,Pinning,unselected,0.34101305691045264
+4,Break,unselected,72.16969641287459
+5,Crash,unselected,0.16765637016246407
+6,Mounting,unselected,0.0
+7,Body,unselected,10.109065432206137
+8,Facial,unselected,3.5254066737041656
+9,Anogenital,unselected,4.829360442562555
+10,Pinning,unselected,0.0
+11,Break,unselected,63.81193266108837
+12,Crash,unselected,0.5877637001840875
+13,Mounting,unselected,3.667336913206109
+14,Body,unselected,2.4734881991655016
+15,Facial,unselected,4.181232184172202
+16,Anogenital,unselected,1.8784688549695476
+17,Pinning,unselected,0.0
+18,Break,unselected,73.82324321450776
+19,Crash,unselected,1.1556658831251978
+20,Mounting,unselected,2.1428191709781297
+21,Body,unselected,11.300959628306295
+22,Facial,unselected,6.72369752735009
+23,Anogenital,unselected,7.074792057697684
+24,Pinning,unselected,0.0
+25,Break,unselected,46.68364213956456
+26,Crash,unselected,1.5038315120541286
+27,Mounting,unselected,5.993704292920975
+28,Body,unselected,12.275464708531315
+29,Facial,unselected,7.175037104737955
+30,Anogenital,unselected,4.831026888611172
+31,Pinning,unselected,0.0445490009033012
+32,Break,unselected,52.95583870030828
+33,Crash,unselected,0.33307664226769235
+34,Mounting,unselected,0.0
+35,Body,tame mouse,23.261232619825947
+36,Facial,tame mouse,5.653254554460411
+37,Anogenital,tame mouse,10.550230565243638
+38,Pinning,tame mouse,0.0
+39,Break,tame mouse,22.515947983308354
+40,Crash,tame mouse,0.0
+41,Mounting,tame mouse,2.0188052060326305
+42,Body,tame mouse,27.975081356396917
+43,Facial,tame mouse,12.194828445310188
+44,Anogenital,tame mouse,15.896246567893721
+45,Pinning,tame mouse,0.0
+46,Break,tame mouse,4.923742590119478
+47,Crash,tame mouse,0.0
+48,Mounting,tame mouse,17.53402561377893
+49,Body,tame mouse,24.134167323643165
+50,Facial,tame mouse,13.336210350790376
+51,Anogenital,tame mouse,9.830770318921886
+52,Pinning,tame mouse,2.215297881405272
+53,Break,tame mouse,22.153012177223815
+54,Crash,tame mouse,0.0
+55,Mounting,tame mouse,0.0
+56,Body,tame mouse,38.472782061502535
+57,Facial,tame mouse,6.69632403805326
+58,Anogenital,tame mouse,17.85462688300848
+59,Pinning,tame mouse,0.0
+60,Break,tame mouse,14.950204035997883
+61,Crash,tame mouse,0.0
+62,Mounting,tame mouse,0.0
+63,Body,tame mouse,30.08792172748205
+64,Facial,tame mouse,3.8950158808034185
+65,Anogenital,tame mouse,13.087669997803818
+66,Pinning,tame mouse,0.0
+67,Break,tame mouse,12.74933760417563
+68,Crash,tame mouse,0.0
+69,Mounting,tame mouse,9.796548477870259
+70,Body,tame mouse,17.397304732150424
+71,Facial,tame mouse,12.210644388433591
+72,Anogenital,tame mouse,13.936182108026085
+73,Pinning,tame mouse,0.0
+74,Break,tame mouse,28.181234127252463
+75,Crash,tame mouse,0.0
+76,Mounting,tame mouse,9.860649080557364
